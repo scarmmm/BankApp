@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+.npm/
+.yarn/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Metro Bundler cache
+.expo/
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/app/.cxx/
+/android/app/.externalNativeBuild/
+/android/app/release/
+/android/app/debug/
+/ios/build/
+/ios/Pods/
+/ios/.xccheckout
+/ios/*.xcworkspace/xcuserdata/
+/ios/*.xcodeproj/xcuserdata/
+/ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+/ios/*.xcworkspace/xcshareddata/
+/ios/*.xcodeproj/xcshareddata/
+/ios/*.xccheckout
+/ios/*.moved-aside
+/ios/Pods/
+/ios/DerivedData/
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+*.log
+
+# Other
+coverage/
+temp/
