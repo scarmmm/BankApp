@@ -17,10 +17,10 @@ Select the model from the app’s dropdown menu to see predictions from differen
 ![Home Screen](screenshots/homeScreen.png)
 
 ### Prediction Results
-![Prediction Screen](assets/loanResult1.png)
+![Prediction Screen](screenshots/loanResult1.png)
 
 ### Model Selection Screen
-![Prediction Screen](assets/modelScreen.png)
+![Prediction Screen](screenshots/modelScreen.png)
 
 ##  How to Run
 
